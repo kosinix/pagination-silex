@@ -1,0 +1,20 @@
+{
+    "name": "kosinix/pagination-silex",
+    "description": "Adds pagination functionality to a Silex app. Used in tandem with Paginator.",
+    "keywords": ["pagination","paginator","silex"],
+    "homepage": "https://github.com/kosinix/paginator",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nico Amarilla",
+            "homepage": "https://www.kosinix.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-4": { "": "src/" }
+    }
+}
