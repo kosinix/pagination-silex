@@ -128,6 +128,7 @@ And use it in your view file:
     <p>No products found.</p>
 {% endif %}
 ```
+Thats it.
 
 ## License
 
